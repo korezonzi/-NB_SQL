@@ -1,0 +1,4 @@
+SELECT *
+  FROM パーティー
+ ORDER BY HP DESC
+ LIMIT 3
